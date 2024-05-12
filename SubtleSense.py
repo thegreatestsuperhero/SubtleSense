@@ -52,8 +52,10 @@ def process_subtitle():
         return
     
     try:
-        with open(file_path, 'r') as subfile:
-            subs = subfile.read()
+        with open(file_path, 'r', errors="ignore") as subfile:
+            subs = subfile.read().strip()
+            if subs[0:3] == "ï»¿":
+                subs = subs[3:]
         
         start_time = time()
 
@@ -72,7 +74,7 @@ def process_subtitle():
                 resub += f"{sublines[i]}\n"
                 i += 1
         
-        resub = resub[:-1]
+        resub = f"{resub.strip()}\n"
 
         end_time = time()
         process_time = 1000*(end_time - start_time)
