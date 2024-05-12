@@ -27,3 +27,8 @@ A straightforward tool to fix out-of-sync subtitle files.
 <p align="center">
   <img height="161" src="https://github.com/thegreatestsuperhero/SubtleSense/assets/69426496/b4f137f3-ea83-4378-971c-d2001cfb2f8b">
 </p>
+
+## Why use SubtleSense, when VLC Media Player has built-in track synchronization?
+VLC's track synchronization is temporary and resets once the video is closed. You have to synchronize the subtitle again if you want to re-watch the video.
+
+With SubtleSense, timestamps in the subtitle file are adjusted permanently, so there is no need to re-synchronize the subtitle with the video if you ever wish to re-watch it.
