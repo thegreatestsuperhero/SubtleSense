@@ -17,7 +17,7 @@ A straightforward tool to fix out-of-sync subtitle files.
    Click the "Process subtitle" button to initiate the adjustment process.
 
 <p align="center">
-  <img height="245" src="https://github.com/thegreatestsuperhero/SubtleSense/assets/69426496/fa1b5696-d895-4afc-8cef-d52b81abfa8e">
+  <img width="414" height="240" src="https://github.com/thegreatestsuperhero/SubtleSense/assets/69426496/fa1b5696-d895-4afc-8cef-d52b81abfa8e">
 </p>
 
 4. Save file:
@@ -25,7 +25,7 @@ A straightforward tool to fix out-of-sync subtitle files.
    Override the original file to start using it right away, or save the file to a different location or with a different name, if you wish to.
 
 <p align="center">
-  <img height="161" src="https://github.com/thegreatestsuperhero/SubtleSense/assets/69426496/b4f137f3-ea83-4378-971c-d2001cfb2f8b">
+  <img width="339" height="161" src="https://github.com/thegreatestsuperhero/SubtleSense/assets/69426496/b4f137f3-ea83-4378-971c-d2001cfb2f8b">
 </p>
 
 ## Why use SubtleSense, when VLC Media Player has built-in track synchronization?
